@@ -49,7 +49,7 @@ int main(){
 				break;
 			}
 			else{
-				cout << "Item not found!\nEnter agian = ";
+				cout << "Given item is not found. please enter once again = ";
 				cin >> order;
 			}
 		}
@@ -91,4 +91,5 @@ int main(){
 	
 	system("pause");
 	return 0;
+
 }
